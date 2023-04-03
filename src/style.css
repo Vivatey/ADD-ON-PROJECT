@@ -22,6 +22,10 @@ body {
   display: block;
 }
 
+.img-filter {
+  filter: contrast(68%);
+}
+
 .grid-2-columns {
   grid-template-columns: 1fr 1fr;
 }
